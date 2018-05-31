@@ -12,6 +12,8 @@ bool()
 complex()
 '''
 
+# asdasds
+
 # tipos de datos
 # entero
 numero1 = 45
