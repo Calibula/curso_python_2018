@@ -86,3 +86,6 @@ conjunto.add("valor")
 
 for elemento in conjunto:
     print(elemento)
+
+
+#FUNCIONES
